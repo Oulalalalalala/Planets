@@ -1,1 +1,3 @@
 Cold and dry but red is my favorite color
+This is an example of my git course exercise
+And it is interesting
