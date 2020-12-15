@@ -2,4 +2,3 @@ Something is replaced
 This is an example of my git course exercise
 And it is not interesting
 Miao miao miao
-Venus as a base?
